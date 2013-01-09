@@ -1,10 +1,10 @@
 
-http://pdxscala.github.com/archive.html
-http://pdxscala.github.com/atom.xml
-http://pdxscala.github.com/categories.html
-http://pdxscala.github.com/index.html
-http://pdxscala.github.com/pages.html
-http://pdxscala.github.com/sitemap.txt
-http://pdxscala.github.com/tags.html
+http://pdxscala.org/archive.html
+http://pdxscala.org/atom.xml
+http://pdxscala.org/categories.html
+http://pdxscala.org/index.html
+http://pdxscala.org/pages.html
+http://pdxscala.org/sitemap.txt
+http://pdxscala.org/tags.html
 
-http://pdxscala.github.com/2013/01/08/new-post
+http://pdxscala.org/2013/01/08/new-post
