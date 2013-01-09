@@ -1,10 +1,10 @@
 
-http://username.github.com/archive.html
-http://username.github.com/atom.xml
-http://username.github.com/categories.html
-http://username.github.com/index.html
-http://username.github.com/pages.html
-http://username.github.com/sitemap.txt
-http://username.github.com/tags.html
+http://pdxscala.github.com/archive.html
+http://pdxscala.github.com/atom.xml
+http://pdxscala.github.com/categories.html
+http://pdxscala.github.com/index.html
+http://pdxscala.github.com/pages.html
+http://pdxscala.github.com/sitemap.txt
+http://pdxscala.github.com/tags.html
 
-http://username.github.com/lessons/2011/12/29/jekyll-introduction
+http://pdxscala.github.com/2013/01/08/new-post
